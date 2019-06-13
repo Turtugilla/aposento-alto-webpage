@@ -124,7 +124,13 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-
+.section-title h1 {
+	margin-bottom:20px;
+  margin-top: 30px;
+	font-size:30px;
+	font-weight:300;
+  text-align: center;
+}
 
 .section-title:after {
 	position:absolute;
@@ -133,13 +139,7 @@ h1, h2, h3, h4, h5, h6 {
 	width:265px;
 }
 
-.section-title h1 {
-	margin-bottom:20px;
-  margin-top: 30px;
-	font-size:30px;
-	font-weight:300;
-  text-align: center;
-}
+
 
 .navbar-toggle {
 	border:1px solid #fff;
