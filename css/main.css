@@ -1683,6 +1683,21 @@ a.navbar-brand {
 
 }
 
+.portada-imagen-eventos{
+
+  /* The image used */
+  background-image: url('../images/eventos/bg-1.jpg');
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
 .comments{
   color : white;
 }
